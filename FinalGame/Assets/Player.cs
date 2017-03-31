@@ -1,21 +1,19 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Player : MonoBehaviour {
 
-	public bool playing = false;
+	int hp;
+public GameObject play;
 
-	// Use this for initialization
-	void Start () {
+    public bool playing { get; private set; }
+
+    // Use this for initialization
+    void Start () {
+		hp = 10;
 		playing = true;
-
-	// public GameObject play;
-	// Use this for initialization
-
 	}
 	
-	// Update is called once per frame
+	// his is kevin's code
 	void Update () {
 		
 	}
