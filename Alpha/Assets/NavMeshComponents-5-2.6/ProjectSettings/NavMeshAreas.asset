@@ -70,7 +70,11 @@ NavMeshProjectSettings:
   - name: 
     cost: 1
 <<<<<<< Updated upstream:Alpha/Assets/NavMeshComponents-5-2.6/ProjectSettings/NavMeshAreas.asset
+<<<<<<< Updated upstream:Alpha/Assets/NavMeshComponents-5-2.6/ProjectSettings/NavMeshAreas.asset
   m_LastAgentTypeID: -1372625422
+=======
+  m_LastAgentTypeID: -887442657
+>>>>>>> Stashed changes:FinalGame/ProjectSettings/NavMeshAreas.asset
 =======
   m_LastAgentTypeID: -887442657
 >>>>>>> Stashed changes:FinalGame/ProjectSettings/NavMeshAreas.asset
@@ -80,7 +84,11 @@ NavMeshProjectSettings:
     agentRadius: 0.5
     agentHeight: 2
 <<<<<<< Updated upstream:Alpha/Assets/NavMeshComponents-5-2.6/ProjectSettings/NavMeshAreas.asset
+<<<<<<< Updated upstream:Alpha/Assets/NavMeshComponents-5-2.6/ProjectSettings/NavMeshAreas.asset
     agentSlope: 45
+=======
+    agentSlope: 60
+>>>>>>> Stashed changes:FinalGame/ProjectSettings/NavMeshAreas.asset
 =======
     agentSlope: 60
 >>>>>>> Stashed changes:FinalGame/ProjectSettings/NavMeshAreas.asset
@@ -93,6 +101,7 @@ NavMeshProjectSettings:
     manualTileSize: 0
     tileSize: 256
     accuratePlacement: 0
+<<<<<<< Updated upstream:Alpha/Assets/NavMeshComponents-5-2.6/ProjectSettings/NavMeshAreas.asset
 <<<<<<< Updated upstream:Alpha/Assets/NavMeshComponents-5-2.6/ProjectSettings/NavMeshAreas.asset
   - serializedVersion: 2
     agentTypeID: -1372625422
@@ -111,6 +120,10 @@ NavMeshProjectSettings:
   m_SettingNames:
   - Humanoid
   - Ogre
+=======
+  m_SettingNames:
+  - Humanoid
+>>>>>>> Stashed changes:FinalGame/ProjectSettings/NavMeshAreas.asset
 =======
   m_SettingNames:
   - Humanoid
