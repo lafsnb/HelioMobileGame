@@ -1,0 +1,724 @@
+fileFormatVersion: 2
+guid: c2536ab3d4be0a94fb97a429b86f4207
+timeCreated: 1492192247
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Center
+    100002: Coupleing4
+    100004: Coupling1
+    100006: Coupling4
+    100008: Coupling5
+    100010: Coupling6
+    100012: Coupling6 1
+    100014: Coupling6 2
+    100016: Coupling7
+    100018: Coupling8
+    100020: Cupling3
+    100022: Hall1
+    100024: Hall7
+    100026: //RootNode
+    100028: transform1
+    100030: transform2
+    100032: transform3
+    100034: transform4
+    100036: transform5
+    100038: transform6
+    100040: WallHall1
+    100042: WallHall2
+    100044: WallHall3
+    100046: WallHall6
+    100048: WallHall7
+    100050: Coupleing4 1
+    100052: Coupleing4 10
+    100054: Coupleing4 11
+    100056: Coupleing4 12
+    100058: Coupleing4 13
+    100060: Coupleing4 14
+    100062: Coupleing4 15
+    100064: Coupleing4 16
+    100066: Coupleing4 17
+    100068: Coupleing4 18
+    100070: Coupleing4 19
+    100072: Coupleing4 2
+    100074: Coupleing4 20
+    100076: Coupleing4 21
+    100078: Coupleing4 22
+    100080: Coupleing4 23
+    100082: Coupleing4 3
+    100084: Coupleing4 4
+    100086: Coupleing4 5
+    100088: Coupleing4 6
+    100090: Coupleing4 7
+    100092: Coupleing4 8
+    100094: Coupleing4 9
+    100096: Coupleing5
+    100098: Coupleing5 1
+    100100: Coupleing5 10
+    100102: Coupleing5 11
+    100104: Coupleing5 12
+    100106: Coupleing5 13
+    100108: Coupleing5 14
+    100110: Coupleing5 15
+    100112: Coupleing5 16
+    100114: Coupleing5 17
+    100116: Coupleing5 18
+    100118: Coupleing5 19
+    100120: Coupleing5 2
+    100122: Coupleing5 20
+    100124: Coupleing5 21
+    100126: Coupleing5 22
+    100128: Coupleing5 23
+    100130: Coupleing5 3
+    100132: Coupleing5 4
+    100134: Coupleing5 5
+    100136: Coupleing5 6
+    100138: Coupleing5 7
+    100140: Coupleing5 8
+    100142: Coupleing5 9
+    100144: Coupleing6
+    100146: Coupleing7
+    100148: Coupleing7 1
+    100150: Coupleing7 2
+    100152: Coupling14
+    100154: Coupling15
+    100156: Coupling16
+    100158: Coupling17
+    100160: Coupling18
+    100162: Coupling19
+    100164: Coupling6 10
+    100166: Coupling6 11
+    100168: Coupling6 3
+    100170: Coupling6 4
+    100172: Coupling6 5
+    100174: Coupling6 6
+    100176: Coupling6 7
+    100178: Coupling6 8
+    100180: Coupling6 9
+    100182: Coupling8 1
+    100184: Coupling8 2
+    100186: Coupling8 3
+    100188: Coupling8 4
+    100190: Coupling8 5
+    100192: Hall7 1
+    100194: Hall7 2
+    100196: Hall7 3
+    100198: transform1 1
+    100200: transform1 2
+    100202: transform1 3
+    100204: transform2 1
+    100206: transform2 2
+    100208: transform2 3
+    100210: transform2 4
+    100212: transform2 5
+    100214: transform3 1
+    100216: transform3 2
+    100218: transform3 3
+    100220: transform3 4
+    100222: transform3 5
+    100224: transform4 1
+    100226: transform4 2
+    100228: transform4 3
+    100230: transform4 4
+    100232: transform4 5
+    100234: transform5 1
+    100236: transform5 2
+    100238: transform5 3
+    100240: transform5 4
+    100242: transform5 5
+    100244: transform6 1
+    100246: transform6 2
+    100248: transform6 3
+    100250: transform6 4
+    100252: transform6 5
+    100254: WallHall10
+    100256: WallHall11
+    100258: WallHall12
+    100260: WallHall13
+    100262: WallHall14
+    100264: WallHall16
+    100266: WallHall17
+    100268: WallHall18
+    100270: WallHall19
+    100272: WallHall20
+    100274: WallHall21
+    100276: WallHall22
+    100278: WallHall23
+    100280: WallHall25
+    100282: WallHall26
+    100284: WallHall32
+    100286: WallHall33
+    100288: WallHall34
+    100290: WallHall35
+    100292: WallHall36
+    100294: WallHall38
+    100296: WallHall39
+    100298: WallHall40
+    100300: WallHall41
+    100302: WallHall42
+    100304: WallHall43
+    100306: WallHall45
+    100308: WallHall46
+    100310: WallHall48
+    100312: WallHall49
+    100314: WallHall51
+    100316: WallHall52
+    100318: WallHall53
+    100320: WallHall6 1
+    100322: WallHall6 2
+    100324: WallHall6 3
+    100326: WallHall6 4
+    100328: WallHall6 5
+    100330: WallHall7 1
+    100332: WallHall7 2
+    100334: WallHall7 3
+    100336: WallHall7 4
+    100338: WallHall7 5
+    400000: Center
+    400002: Coupleing4
+    400004: Coupling1
+    400006: Coupling4
+    400008: Coupling5
+    400010: Coupling6
+    400012: Coupling6 1
+    400014: Coupling6 2
+    400016: Coupling7
+    400018: Coupling8
+    400020: Cupling3
+    400022: Hall1
+    400024: Hall7
+    400026: //RootNode
+    400028: transform1
+    400030: transform2
+    400032: transform3
+    400034: transform4
+    400036: transform5
+    400038: transform6
+    400040: WallHall1
+    400042: WallHall2
+    400044: WallHall3
+    400046: WallHall6
+    400048: WallHall7
+    400050: Coupleing4 1
+    400052: Coupleing4 10
+    400054: Coupleing4 11
+    400056: Coupleing4 12
+    400058: Coupleing4 13
+    400060: Coupleing4 14
+    400062: Coupleing4 15
+    400064: Coupleing4 16
+    400066: Coupleing4 17
+    400068: Coupleing4 18
+    400070: Coupleing4 19
+    400072: Coupleing4 2
+    400074: Coupleing4 20
+    400076: Coupleing4 21
+    400078: Coupleing4 22
+    400080: Coupleing4 23
+    400082: Coupleing4 3
+    400084: Coupleing4 4
+    400086: Coupleing4 5
+    400088: Coupleing4 6
+    400090: Coupleing4 7
+    400092: Coupleing4 8
+    400094: Coupleing4 9
+    400096: Coupleing5
+    400098: Coupleing5 1
+    400100: Coupleing5 10
+    400102: Coupleing5 11
+    400104: Coupleing5 12
+    400106: Coupleing5 13
+    400108: Coupleing5 14
+    400110: Coupleing5 15
+    400112: Coupleing5 16
+    400114: Coupleing5 17
+    400116: Coupleing5 18
+    400118: Coupleing5 19
+    400120: Coupleing5 2
+    400122: Coupleing5 20
+    400124: Coupleing5 21
+    400126: Coupleing5 22
+    400128: Coupleing5 23
+    400130: Coupleing5 3
+    400132: Coupleing5 4
+    400134: Coupleing5 5
+    400136: Coupleing5 6
+    400138: Coupleing5 7
+    400140: Coupleing5 8
+    400142: Coupleing5 9
+    400144: Coupleing6
+    400146: Coupleing7
+    400148: Coupleing7 1
+    400150: Coupleing7 2
+    400152: Coupling14
+    400154: Coupling15
+    400156: Coupling16
+    400158: Coupling17
+    400160: Coupling18
+    400162: Coupling19
+    400164: Coupling6 10
+    400166: Coupling6 11
+    400168: Coupling6 3
+    400170: Coupling6 4
+    400172: Coupling6 5
+    400174: Coupling6 6
+    400176: Coupling6 7
+    400178: Coupling6 8
+    400180: Coupling6 9
+    400182: Coupling8 1
+    400184: Coupling8 2
+    400186: Coupling8 3
+    400188: Coupling8 4
+    400190: Coupling8 5
+    400192: Hall7 1
+    400194: Hall7 2
+    400196: Hall7 3
+    400198: transform1 1
+    400200: transform1 2
+    400202: transform1 3
+    400204: transform2 1
+    400206: transform2 2
+    400208: transform2 3
+    400210: transform2 4
+    400212: transform2 5
+    400214: transform3 1
+    400216: transform3 2
+    400218: transform3 3
+    400220: transform3 4
+    400222: transform3 5
+    400224: transform4 1
+    400226: transform4 2
+    400228: transform4 3
+    400230: transform4 4
+    400232: transform4 5
+    400234: transform5 1
+    400236: transform5 2
+    400238: transform5 3
+    400240: transform5 4
+    400242: transform5 5
+    400244: transform6 1
+    400246: transform6 2
+    400248: transform6 3
+    400250: transform6 4
+    400252: transform6 5
+    400254: WallHall10
+    400256: WallHall11
+    400258: WallHall12
+    400260: WallHall13
+    400262: WallHall14
+    400264: WallHall16
+    400266: WallHall17
+    400268: WallHall18
+    400270: WallHall19
+    400272: WallHall20
+    400274: WallHall21
+    400276: WallHall22
+    400278: WallHall23
+    400280: WallHall25
+    400282: WallHall26
+    400284: WallHall32
+    400286: WallHall33
+    400288: WallHall34
+    400290: WallHall35
+    400292: WallHall36
+    400294: WallHall38
+    400296: WallHall39
+    400298: WallHall40
+    400300: WallHall41
+    400302: WallHall42
+    400304: WallHall43
+    400306: WallHall45
+    400308: WallHall46
+    400310: WallHall48
+    400312: WallHall49
+    400314: WallHall51
+    400316: WallHall52
+    400318: WallHall53
+    400320: WallHall6 1
+    400322: WallHall6 2
+    400324: WallHall6 3
+    400326: WallHall6 4
+    400328: WallHall6 5
+    400330: WallHall7 1
+    400332: WallHall7 2
+    400334: WallHall7 3
+    400336: WallHall7 4
+    400338: WallHall7 5
+    2300000: Center
+    2300002: Coupleing4
+    2300004: Coupling1
+    2300006: Coupling4
+    2300008: Coupling5
+    2300010: Coupling6
+    2300012: Coupling7
+    2300014: Cupling3
+    2300016: Hall1
+    2300018: WallHall1
+    2300020: WallHall2
+    2300022: WallHall3
+    2300024: Coupleing4 1
+    2300026: Coupleing4 10
+    2300028: Coupleing4 11
+    2300030: Coupleing4 12
+    2300032: Coupleing4 13
+    2300034: Coupleing4 14
+    2300036: Coupleing4 15
+    2300038: Coupleing4 16
+    2300040: Coupleing4 17
+    2300042: Coupleing4 18
+    2300044: Coupleing4 19
+    2300046: Coupleing4 2
+    2300048: Coupleing4 20
+    2300050: Coupleing4 21
+    2300052: Coupleing4 22
+    2300054: Coupleing4 23
+    2300056: Coupleing4 3
+    2300058: Coupleing4 4
+    2300060: Coupleing4 5
+    2300062: Coupleing4 6
+    2300064: Coupleing4 7
+    2300066: Coupleing4 8
+    2300068: Coupleing4 9
+    2300070: Coupleing5
+    2300072: Coupleing5 1
+    2300074: Coupleing5 10
+    2300076: Coupleing5 11
+    2300078: Coupleing5 12
+    2300080: Coupleing5 13
+    2300082: Coupleing5 14
+    2300084: Coupleing5 15
+    2300086: Coupleing5 16
+    2300088: Coupleing5 17
+    2300090: Coupleing5 18
+    2300092: Coupleing5 19
+    2300094: Coupleing5 2
+    2300096: Coupleing5 20
+    2300098: Coupleing5 21
+    2300100: Coupleing5 22
+    2300102: Coupleing5 23
+    2300104: Coupleing5 3
+    2300106: Coupleing5 4
+    2300108: Coupleing5 5
+    2300110: Coupleing5 6
+    2300112: Coupleing5 7
+    2300114: Coupleing5 8
+    2300116: Coupleing5 9
+    2300118: Coupleing6
+    2300120: Coupleing7
+    2300122: Coupleing7 1
+    2300124: Coupleing7 2
+    2300126: Coupling14
+    2300128: Coupling15
+    2300130: Coupling16
+    2300132: Coupling17
+    2300134: Coupling18
+    2300136: Coupling19
+    2300138: WallHall10
+    2300140: WallHall11
+    2300142: WallHall12
+    2300144: WallHall13
+    2300146: WallHall14
+    2300148: WallHall16
+    2300150: WallHall17
+    2300152: WallHall18
+    2300154: WallHall19
+    2300156: WallHall20
+    2300158: WallHall21
+    2300160: WallHall22
+    2300162: WallHall23
+    2300164: WallHall25
+    2300166: WallHall26
+    2300168: WallHall32
+    2300170: WallHall33
+    2300172: WallHall34
+    2300174: WallHall35
+    2300176: WallHall36
+    2300178: WallHall38
+    2300180: WallHall39
+    2300182: WallHall40
+    2300184: WallHall41
+    2300186: WallHall42
+    2300188: WallHall43
+    2300190: WallHall45
+    2300192: WallHall46
+    2300194: WallHall48
+    2300196: WallHall49
+    2300198: WallHall51
+    2300200: WallHall52
+    2300202: WallHall53
+    3300000: Center
+    3300002: Coupleing4
+    3300004: Coupling1
+    3300006: Coupling4
+    3300008: Coupling5
+    3300010: Coupling6
+    3300012: Coupling7
+    3300014: Cupling3
+    3300016: Hall1
+    3300018: WallHall1
+    3300020: WallHall2
+    3300022: WallHall3
+    3300024: Coupleing4 1
+    3300026: Coupleing4 10
+    3300028: Coupleing4 11
+    3300030: Coupleing4 12
+    3300032: Coupleing4 13
+    3300034: Coupleing4 14
+    3300036: Coupleing4 15
+    3300038: Coupleing4 16
+    3300040: Coupleing4 17
+    3300042: Coupleing4 18
+    3300044: Coupleing4 19
+    3300046: Coupleing4 2
+    3300048: Coupleing4 20
+    3300050: Coupleing4 21
+    3300052: Coupleing4 22
+    3300054: Coupleing4 23
+    3300056: Coupleing4 3
+    3300058: Coupleing4 4
+    3300060: Coupleing4 5
+    3300062: Coupleing4 6
+    3300064: Coupleing4 7
+    3300066: Coupleing4 8
+    3300068: Coupleing4 9
+    3300070: Coupleing5
+    3300072: Coupleing5 1
+    3300074: Coupleing5 10
+    3300076: Coupleing5 11
+    3300078: Coupleing5 12
+    3300080: Coupleing5 13
+    3300082: Coupleing5 14
+    3300084: Coupleing5 15
+    3300086: Coupleing5 16
+    3300088: Coupleing5 17
+    3300090: Coupleing5 18
+    3300092: Coupleing5 19
+    3300094: Coupleing5 2
+    3300096: Coupleing5 20
+    3300098: Coupleing5 21
+    3300100: Coupleing5 22
+    3300102: Coupleing5 23
+    3300104: Coupleing5 3
+    3300106: Coupleing5 4
+    3300108: Coupleing5 5
+    3300110: Coupleing5 6
+    3300112: Coupleing5 7
+    3300114: Coupleing5 8
+    3300116: Coupleing5 9
+    3300118: Coupleing6
+    3300120: Coupleing7
+    3300122: Coupleing7 1
+    3300124: Coupleing7 2
+    3300126: Coupling14
+    3300128: Coupling15
+    3300130: Coupling16
+    3300132: Coupling17
+    3300134: Coupling18
+    3300136: Coupling19
+    3300138: WallHall10
+    3300140: WallHall11
+    3300142: WallHall12
+    3300144: WallHall13
+    3300146: WallHall14
+    3300148: WallHall16
+    3300150: WallHall17
+    3300152: WallHall18
+    3300154: WallHall19
+    3300156: WallHall20
+    3300158: WallHall21
+    3300160: WallHall22
+    3300162: WallHall23
+    3300164: WallHall25
+    3300166: WallHall26
+    3300168: WallHall32
+    3300170: WallHall33
+    3300172: WallHall34
+    3300174: WallHall35
+    3300176: WallHall36
+    3300178: WallHall38
+    3300180: WallHall39
+    3300182: WallHall40
+    3300184: WallHall41
+    3300186: WallHall42
+    3300188: WallHall43
+    3300190: WallHall45
+    3300192: WallHall46
+    3300194: WallHall48
+    3300196: WallHall49
+    3300198: WallHall51
+    3300200: WallHall52
+    3300202: WallHall53
+    4300000: Center
+    4300002: Cupling3
+    4300004: Coupling1
+    4300006: Hall1
+    4300008: WallHall1
+    4300010: Coupleing4
+    4300012: Coupling4
+    4300014: Coupling7
+    4300016: Coupling6
+    4300018: WallHall3
+    4300020: Coupling5
+    4300022: WallHall2
+    4300024: WallHall10
+    4300026: Coupleing5
+    4300028: WallHall11
+    4300030: Coupleing4
+    4300032: Coupleing5
+    4300034: WallHall12
+    4300036: Coupleing4
+    4300038: Coupleing5
+    4300040: WallHall13
+    4300042: Coupleing4
+    4300044: Coupleing5
+    4300046: WallHall16
+    4300048: Coupleing4
+    4300050: Coupleing5
+    4300052: WallHall17
+    4300054: Coupleing4
+    4300056: Coupleing5
+    4300058: WallHall18
+    4300060: Coupleing4
+    4300062: Coupleing5
+    4300064: WallHall19
+    4300066: Coupleing4
+    4300068: Coupleing5
+    4300070: WallHall22
+    4300072: Coupleing4
+    4300074: Coupleing5
+    4300076: WallHall23
+    4300078: Coupleing4
+    4300080: Coupleing5
+    4300082: WallHall25
+    4300084: Coupleing4
+    4300086: Coupleing5
+    4300088: WallHall26
+    4300090: Coupleing4
+    4300092: Coupleing5
+    4300094: Coupleing6
+    4300096: WallHall33
+    4300098: Coupleing4
+    4300100: Coupleing5
+    4300102: WallHall34
+    4300104: Coupleing4
+    4300106: Coupleing5
+    4300108: WallHall35
+    4300110: Coupleing4
+    4300112: Coupleing5
+    4300114: WallHall36
+    4300116: Coupleing4
+    4300118: Coupleing5
+    4300120: WallHall39
+    4300122: Coupleing4
+    4300124: Coupleing5
+    4300126: WallHall40
+    4300128: Coupleing4
+    4300130: Coupleing5
+    4300132: WallHall41
+    4300134: Coupleing4
+    4300136: Coupleing5
+    4300138: Coupleing7
+    4300140: WallHall43
+    4300142: Coupleing4
+    4300144: Coupleing5
+    4300146: WallHall46
+    4300148: Coupleing4
+    4300150: Coupleing5
+    4300152: WallHall48
+    4300154: Coupleing4
+    4300156: Coupleing5
+    4300158: Coupleing7
+    4300160: WallHall51
+    4300162: Coupleing4
+    4300164: Coupleing5
+    4300166: WallHall52
+    4300168: Coupleing4
+    4300170: Coupleing5
+    4300172: WallHall53
+    4300174: Coupleing7
+    4300176: Coupling14
+    4300178: WallHall14
+    4300180: Coupling15
+    4300182: WallHall20
+    4300184: WallHall21
+    4300186: Coupling16
+    4300188: WallHall32
+    4300190: Coupling17
+    4300192: WallHall38
+    4300194: WallHall42
+    4300196: WallHall45
+    4300198: WallHall49
+    4300200: Coupling18
+    4300202: Coupling19
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
