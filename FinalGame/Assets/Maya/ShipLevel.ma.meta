@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 70e8509827c4f4f12ac0fcfe5791ccc3
+timeCreated: 1491949405
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: group1
+    100002: group2
+    100004: pCylinder1
+    100006: pCylinder10
+    100008: pCylinder12
+    100010: pCylinder13
+    100012: pCylinder14
+    100014: pCylinder15
+    100016: pCylinder16
+    100018: pCylinder17
+    100020: pCylinder18
+    100022: pCylinder19
+    100024: pCylinder20
+    100026: pCylinder21
+    100028: pCylinder22
+    100030: pCylinder23
+    100032: pCylinder24
+    100034: pCylinder24 1
+    100036: pCylinder4
+    100038: pCylinder6
+    100040: pCylinder8
+    100042: pTorus1
+    100044: pTorus2
+    100046: pTorus3
+    100048: pTorus4
+    100050: pTorus4 1
+    100052: //RootNode
+    100054: Center
+    100056: Coupleing4
+    100058: Coupling1
+    100060: Coupling4
+    100062: Coupling5
+    100064: Coupling6
+    100066: Coupling6 1
+    100068: Coupling6 2
+    100070: Coupling7
+    100072: Coupling8
+    100074: Cupling3
+    100076: Hall1
+    100078: Hall7
+    100080: transform1
+    100082: transform2
+    100084: transform3
+    100086: transform4
+    100088: transform5
+    100090: transform6
+    100092: WallHall1
+    100094: WallHall2
+    100096: WallHall3
+    100098: WallHall6
+    100100: WallHall7
+    400000: group1
+    400002: group2
+    400004: pCylinder1
+    400006: pCylinder10
+    400008: pCylinder12
+    400010: pCylinder13
+    400012: pCylinder14
+    400014: pCylinder15
+    400016: pCylinder16
+    400018: pCylinder17
+    400020: pCylinder18
+    400022: pCylinder19
+    400024: pCylinder20
+    400026: pCylinder21
+    400028: pCylinder22
+    400030: pCylinder23
+    400032: pCylinder24
+    400034: pCylinder24 1
+    400036: pCylinder4
+    400038: pCylinder6
+    400040: pCylinder8
+    400042: pTorus1
+    400044: pTorus2
+    400046: pTorus3
+    400048: pTorus4
+    400050: pTorus4 1
+    400052: //RootNode
+    400054: Center
+    400056: Coupleing4
+    400058: Coupling1
+    400060: Coupling4
+    400062: Coupling5
+    400064: Coupling6
+    400066: Coupling6 1
+    400068: Coupling6 2
+    400070: Coupling7
+    400072: Coupling8
+    400074: Cupling3
+    400076: Hall1
+    400078: Hall7
+    400080: transform1
+    400082: transform2
+    400084: transform3
+    400086: transform4
+    400088: transform5
+    400090: transform6
+    400092: WallHall1
+    400094: WallHall2
+    400096: WallHall3
+    400098: WallHall6
+    400100: WallHall7
+    2300000: pCylinder1
+    2300002: pCylinder10
+    2300004: pCylinder12
+    2300006: pCylinder13
+    2300008: pCylinder14
+    2300010: pCylinder15
+    2300012: pCylinder16
+    2300014: pCylinder17
+    2300016: pCylinder18
+    2300018: pCylinder19
+    2300020: pCylinder20
+    2300022: pCylinder21
+    2300024: pCylinder22
+    2300026: pCylinder23
+    2300028: pCylinder24
+    2300030: pCylinder24 1
+    2300032: pCylinder4
+    2300034: pCylinder6
+    2300036: pCylinder8
+    2300038: pTorus1
+    2300040: pTorus2
+    2300042: pTorus3
+    2300044: pTorus4
+    2300046: pTorus4 1
+    2300048: Center
+    2300050: Coupleing4
+    2300052: Coupling1
+    2300054: Coupling4
+    2300056: Coupling5
+    2300058: Coupling6
+    2300060: Coupling7
+    2300062: Cupling3
+    2300064: Hall1
+    2300066: WallHall1
+    2300068: WallHall2
+    2300070: WallHall3
+    3300000: pCylinder1
+    3300002: pCylinder10
+    3300004: pCylinder12
+    3300006: pCylinder13
+    3300008: pCylinder14
+    3300010: pCylinder15
+    3300012: pCylinder16
+    3300014: pCylinder17
+    3300016: pCylinder18
+    3300018: pCylinder19
+    3300020: pCylinder20
+    3300022: pCylinder21
+    3300024: pCylinder22
+    3300026: pCylinder23
+    3300028: pCylinder24
+    3300030: pCylinder24 1
+    3300032: pCylinder4
+    3300034: pCylinder6
+    3300036: pCylinder8
+    3300038: pTorus1
+    3300040: pTorus2
+    3300042: pTorus3
+    3300044: pTorus4
+    3300046: pTorus4 1
+    3300048: Center
+    3300050: Coupleing4
+    3300052: Coupling1
+    3300054: Coupling4
+    3300056: Coupling5
+    3300058: Coupling6
+    3300060: Coupling7
+    3300062: Cupling3
+    3300064: Hall1
+    3300066: WallHall1
+    3300068: WallHall2
+    3300070: WallHall3
+    4300000: pTorus1
+    4300002: pTorus2
+    4300004: pCylinder1
+    4300006: pCylinder4
+    4300008: pCylinder6
+    4300010: pCylinder8
+    4300012: pCylinder10
+    4300014: pCylinder12
+    4300016: pCylinder13
+    4300018: pCylinder14
+    4300020: pCylinder15
+    4300022: pCylinder16
+    4300024: pCylinder17
+    4300026: pCylinder18
+    4300028: pCylinder19
+    4300030: pCylinder20
+    4300032: pTorus3
+    4300034: pCylinder21
+    4300036: pCylinder22
+    4300038: pCylinder23
+    4300040: pCylinder24
+    4300042: pTorus4
+    4300044: pCylinder24
+    4300046: pTorus4
+    4300048: Center
+    4300050: Cupling3
+    4300052: Coupling1
+    4300054: Hall1
+    4300056: WallHall1
+    4300058: Coupleing4
+    4300060: Coupling4
+    4300062: Coupling7
+    4300064: Coupling6
+    4300066: WallHall3
+    4300068: Coupling5
+    4300070: WallHall2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
